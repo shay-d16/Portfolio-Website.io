@@ -197,6 +197,7 @@ footer {
     position: relative;
     -webkit-animation: moveVideoText 5.75s;
     animation: moveVideoText 5.75s;
+    font-size: 90%;
 }
 
 /* This animation effect causes the overlay video text to move up from the bottom of the page upon page load */
