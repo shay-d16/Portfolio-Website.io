@@ -342,6 +342,20 @@ footer {
     display: table; /* The display propety specifies the type of display behavior; the table value tells the browser to treet the element as a table */
     clear: both; /* This clear any other elements from floating on the left of the right of an element */
 }
+
+/* Specific styling for the About Section */
+.about_section {
+    margin:auto;
+}
+
+.about_section p {
+    font-size: 1rem;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    line-height: 1.2rem;
+    font-weight:normal;
+}
+
 /*------ END OF TABLE STYLING -------*/
 
 /*------ CONTACT FORM STYLING -------*/
